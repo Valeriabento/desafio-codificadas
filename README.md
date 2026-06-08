@@ -46,6 +46,9 @@ for _ in range(t):
         if a[i] != a[i-1] + 1:
             count += 1
     print(count)
+
+```
+
 ---
  
 ## IA utilizada
